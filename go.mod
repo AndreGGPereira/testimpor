@@ -1,4 +1,4 @@
-module github.com/magisdev/framework-go
+module github.com/AndreGGPereira/testimpor
 
 go 1.19
 
